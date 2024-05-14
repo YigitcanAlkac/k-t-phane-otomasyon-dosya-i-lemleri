@@ -5,3 +5,4 @@ Hizmet alan kişi kitabın tarihini uzatmak isterse kitap adı kişi adı ve yen
 Ayrıca bu pencerede sorgu yapısı mevcuttur. Kullanıcı kişi tel no veya kitap adı üzerinden hangi kitabın hangi kişide olduguna yönelik sorgulama yapıp bunları ayrı bir listede görüntüleyebilir.
 2. pencere "Stok takip sistemi" bu pencerede stokta hangi kitapların bulunduğu ve kitap bilgileri(kitap türü,raf bilgisi.....) gösterilir kullanıcı burdan stoğa kitap bilgilerini girerek kitap ekleyebilir.
 3. pencere "Kazanc takip sistemi" kullanıcı burdan toplam kitap verme adedini, toplam kazancı ve yapılan bütün kitap alımlarını görüntüleyebilir.
+Kullanıcı deneyiminden kaynaklı hatalar kontrol edilip önüne gecilmiştir.
